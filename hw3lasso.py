@@ -12,6 +12,9 @@ float_list = [ [float(y) for y in x] for x in split_list ]
 median_values = [x[13] for x in float_list]
 features = [x[:13] for x in float_list]
 
+# Adding some important comment and new variable
+useless_variable = 987
+
 # Training set
 X_train = features[:100]
 Y_train = median_values[:100]
