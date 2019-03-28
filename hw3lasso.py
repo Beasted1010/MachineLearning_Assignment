@@ -14,8 +14,8 @@ features = [x[:13] for x in float_list]
 
 # Adding some SWEngineering change that requires no intervention
 # Adding some important comment and new variable
-# HUMAN INTERVENING CHANGE HERE (:
 useless_variable_for_SWEngineering = 955
+# ADDING SOME HUMAN INTERVENING CHANGE, CHANGING NUMBER IN BOTH REPOs
 
 # ANOTHER non human intervening change needed for SWEngineering
 
