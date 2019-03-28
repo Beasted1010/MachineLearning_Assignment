@@ -18,6 +18,7 @@ features = [x[:13] for x in float_list]
 useless_variable_for_SWEngineering = 780
 new_feature_variable = 102
 # ADDING SOME HUMAN INTERVENING CHANGE, CHANGING NUMBER IN BOTH REPOs
+# Some things being done to the master branch
 
 # ANOTHER non human intervening change needed for SWEngineering
 
