@@ -14,7 +14,8 @@ features = [x[:13] for x in float_list]
 
 # Adding some SWEngineering change that requires no intervention
 # Adding some important comment and new variable
-useless_variable_for_SWEngineering = 900
+# ADDING SOME HUMAN INTERVENING CHANGE, CHANGING NUMBER IN BOTH REPOs
+useless_variable_for_SWEngineering = 920
 
 # Training set
 X_train = features[:100]
