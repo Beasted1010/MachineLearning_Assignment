@@ -16,7 +16,8 @@ features = [x[:13] for x in float_list]
 # Adding some important comment and new variable
 # ADDING SOME STUFF TO FEATURE BRANCH, VERY COOL FEATURE BRANCH
 useless_variable_for_SWEngineering = 780
-new_feature_variable = 102
+# This value should be larger than 102, coming in real quick for a hot fix
+new_feature_variable = 1000002
 # ADDING SOME HUMAN INTERVENING CHANGE, CHANGING NUMBER IN BOTH REPOs
 # Some things being done to the master branch
 # Some other thing being added
